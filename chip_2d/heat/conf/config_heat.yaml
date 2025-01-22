@@ -21,7 +21,7 @@ defaults :
   - loss: sum
   - _self_
 
-initialization_network_dir: "../chip_2d_solid_fluid_heat_transfer_flow0.2"
+initialization_network_dir: "../chip_2d_solid_fluid_heat_transfer_flow"
 
 scheduler:
   decay_rate: 0.95
